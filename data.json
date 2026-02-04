@@ -1,0 +1,28 @@
+{
+  "animes": {
+    "1": {
+      "seasons": {
+        "1": {
+          "episodes": {
+            "1": {
+              "title": "Episode 1",
+              "fileId": "BAACAgIAAxkBAAIBhGmDanf6bv5HGDLMlgdl6uFEkpPDAALziAACocEAAUsyea4t_X_yyTgE"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "seasons": {
+        "2": {
+          "episodes": {
+            "1": {
+              "title": "Episode 1",
+              "fileId": "BAACAgIAAxkBAAIBhGmDanf6bv5HGDLMlgdl6uFEkpPDAALziAACocEAAUsyea4t_X_yyTgE"
+            }
+          }
+        }
+      }
+    }
+  }
+}
